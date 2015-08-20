@@ -8,7 +8,7 @@
     http://www.eclipse.org/legal/epl-v10.html
 
     Contributors:
-      Codenvy, S.A. - initial API and implementation
+      Codenvy, S.A. - initial API abnd implementation
 
 -->
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
@@ -43,7 +43,7 @@
         <codenvy.cli.version>3.12.1-SNAPSHOT</codenvy.cli.version>
         <codenvy.cloud-ide.version>3.12.1-SNAPSHOT</codenvy.cloud-ide.version>
         <codenvy.dashboard.version>3.12.1-SNAPSHOT</codenvy.dashboard.version>
-        <codenvy.dashboard2.version>2.0.0-beta2-1</codenvy.dashboard2.version>
+        <codenvy.dashboard2.version>2.0.0-beta3-1</codenvy.dashboard2.version>
         <codenvy.factory.version>3.12.1-SNAPSHOT</codenvy.factory.version>
         <codenvy.hosted-infrastructure.version>3.12.1-SNAPSHOT</codenvy.hosted-infrastructure.version>
         <codenvy.im.version>3.12.1-SNAPSHOT</codenvy.im.version>
